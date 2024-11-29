@@ -1,4 +1,3 @@
-ENGLISH：
 SimpleNids is a simple network traffic detection system based on libnids. Can effectively detect network packets, including: IP packets, IP fragment packets, UDP packets, TCP packets, HTTP packets
 
 It can read data packets from specified network card devices or specified pcap for analysis, and the parsing result is JSON. Kafka can be configured to write analysis results to the topic.
@@ -27,7 +26,7 @@ HTTP packet:
 
 TCP packet:
 todo
-
+---------------------------------------------------------------------------------------------
 
 中文：
 simpleNids是一款基于libnids编写的简易网络流量检测系统。 
